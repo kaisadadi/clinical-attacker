@@ -73,7 +73,7 @@ if __name__ == "__main__":
     params = {
         "config": "config/nlp/LSTM.config",
         "model_id": 16,
-        "mode": "black",
+        "mode": "white",
         "gpu": "0"
     }
     attacker = attack_gate(params)
