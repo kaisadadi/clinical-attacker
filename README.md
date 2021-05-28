@@ -1,2 +1,2 @@
-# Adversarial_EHR
-for BIBM 2019
+# Clinical Attacker
+
